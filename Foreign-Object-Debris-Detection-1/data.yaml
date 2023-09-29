@@ -1,0 +1,12 @@
+names:
+- Debris
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: foreign-object-debris-detection
+  url: https://universe.roboflow.com/yolov7-n1bli/foreign-object-debris-detection/dataset/1
+  version: 1
+  workspace: yolov7-n1bli
+test: /content/drive/MyDrive/IFP/Foreign-Object-Debris-Detection-1/test/images
+train: /content/drive/MyDrive/IFP/Foreign-Object-Debris-Detection-1/train/images
+val: /content/drive/MyDrive/IFP/Foreign-Object-Debris-Detection-1/valid/images
